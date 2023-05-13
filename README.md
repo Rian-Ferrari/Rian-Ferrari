@@ -5,16 +5,10 @@
 - 📫 Contate-me no Linkedin: Rian Ferrari
 - 😄 Pronouns: Ele/Dele
 - 🎓 Análise e Desenvolvimento de Sistemas
- 
-<div align="center">
-  <a href="https://github.com/Rian-Ferrari">
     
  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Rian-Ferrari&theme=chartreuse-dark&show_icons=true&hide_border=true&card_width=width="50%")
  [![GitHub Streak](https://streak-stats.demolab.com?user=Rian-Ferrari&hide_border=true&theme=chartreuse-dark)](https://git.io/streak-stats)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rian-Ferrari&theme=chartreuse-dark&layout=compact&show_icons=true&hide_border=true&card_width=250)
-
-    
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
