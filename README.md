@@ -10,8 +10,9 @@
   <a href="https://github.com/Rian-Ferrari">
     
  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Rian-Ferrari&theme=chartreuse-dark&show_icons=true&hide_border=true&card_width=width="50%")
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rian-Ferrari&theme=chartreuse-dark&layout=compact&show_icons=true&hide_border=true&card_width=250)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rian-Ferrari&hide_border=true&theme=chartreuse-dark)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Rian-Ferrari&hide_border=true&theme=chartreuse-dark)](https://git.io/streak-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rian-Ferrari&theme=chartreuse-dark&layout=compact&show_icons=true&hide_border=true&card_width=250)
+
     
 </div>
 
