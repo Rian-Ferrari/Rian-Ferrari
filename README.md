@@ -17,6 +17,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Rian-Ferrari&show_icons=true" />
 </picture>
 
+<img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rian-Ferrari&layout=compact&langs_count=7&theme=radical"/>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rian-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
