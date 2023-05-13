@@ -1,14 +1,15 @@
 ### Olá! Eu sou o Rian Ferrari 👋
 
+- 🌎 Brasileiro
 - 🌱 Estudando JavaScript
 - 📫 Contate-me no Linkedin: Rian Ferrari
 - 😄 Pronouns: Ele/Dele
+- 🎓 Análise e Desenvolvimento de Sistemas
+  
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rian-Ferrari&theme=chartreuse-dark&layout=compact&show_icons=true&hide_border=true&card_width=250)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rian-Ferrari&hide_border=true&theme=chartreuse-dark)](https://git.io/streak-stats)
 
-<div align="center">
-  <a href="https://github.com/Rian-Ferrari">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Rian-Ferrari&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rian-Ferrari&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Rian-Ferrari&theme=chartreuse-dark&show_icons=true&hide_border=true&card_width=250)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
