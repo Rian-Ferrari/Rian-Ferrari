@@ -16,6 +16,9 @@
   <img align="center" alt="Rian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Rian-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/b6/d4/f9/b6d4f97174e1b7513b1e7ef06bbd4bc3.jpg">
+  <img align="right" alt="Rian-node" height="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
+  <img align="right" alt="Rian-node" height="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+  <img align="right" alt="Rian-node" height="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />        
 </div>
 
 ##
@@ -25,4 +28,3 @@
   <a href="https://www.linkedin.com/in/rian-ferrari-7a954620b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/Rian-Ferrari/Rian-Ferrari/blob/output/github-contribution-grid-snake.svg)
