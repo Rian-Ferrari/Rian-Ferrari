@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Rian Ferrari 👋
 
 - 🌎 Brasileiro
-- 🌱 Estudando Java
+- 🌱 Estudando Power BI
 - 📫 Contate-me no Linkedin: Rian Ferrari
 - 😄 Pronouns: Ele/Dele
 - 🎓 Análise e Desenvolvimento de Sistemas
