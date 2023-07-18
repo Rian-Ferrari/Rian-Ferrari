@@ -19,7 +19,8 @@
   <img align="center" alt="Rian-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
   <img align="center" alt="Rian-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Rian-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="Rian-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+  <img align="center" alt="Rian-windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+  <img align="center" alt="Rian-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   <img align="right" alt="Rian-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/b6/d4/f9/b6d4f97174e1b7513b1e7ef06bbd4bc3.jpg">      
 </div>
 
